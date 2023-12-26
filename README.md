@@ -1,2 +1,6 @@
 # Title: Credit-Fraud_Detection
-hy
+
+
+# 1. Methodology 
+![image](https://github.com/Shreya2876/Credit-Fraud_Detection/assets/122904598/350dc896-88f7-4570-8259-496f8cc37cca)
+
