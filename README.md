@@ -7,8 +7,11 @@
 
 # 2. Description
 Dataset used: https://www.kaggle.com/datasets/arockiaselciaa/creditcardcsv/data
+#
 Models used: Support Vector Machine(SVM), Isolation Forest, Local Outlier Factor
+
 Best Model: Isolation Forest
+
 Accuracy: 0.9974368877497279
 
 
